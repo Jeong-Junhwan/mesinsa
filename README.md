@@ -10,7 +10,8 @@
 <br>
 
 ---
-#### <a href="http://mesinsa.co.kr"> 👉 메신사 체험하기 <a/>
+#### ~~<a href="http://mesinsa.co.kr"> 👉 메신사 체험하기 <a/>~~
+*GPU 문제로 더이상 서비스 하지 않습니다...*
 ---
 </div>
 <br><br><br>
